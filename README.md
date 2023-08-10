@@ -1,6 +1,6 @@
 ### Olá Meu nome é Gabriel Fernando Marcucci 👋
 
-- 🌱 Atualmente estou estudando HTML/CSS/javascript 
+- 🌱 Atualmente estou estudando Flutter
 
 <div align="center">
   <a href="https://github.com/GabsMarc">

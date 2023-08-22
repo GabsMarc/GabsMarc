@@ -1,6 +1,6 @@
 ### Olá Meu nome é Gabriel Fernando Marcucci 👋
 
-- 🌱 Atualmente estou estudando Flutter, mas já trabalhei com Delphi.
+- 🌱 
 
 <div align="center">
   <a href="https://github.com/GabsMarc">
